@@ -14,7 +14,7 @@ The simulation of individual microgrids working independently are provided in th
 
 # Cluster Design
 
-The independant microgrids are clustered and the energy routing is enabled using the Smart Energy Routing Algorithm which is given in the following code:
+The independent microgrids are clustered and the energy routing is enabled using the Smart Energy Routing Algorithm which is given in the following code:
 
 [Smart-Energy-Routing-Algorithm.ipynb](https://github.com/marjerie/Energy-Routing-Algorithm-For-Microgrid-Clusters/blob/master/Smart-Energy-Routing-Algorithm.ipynb)
 
